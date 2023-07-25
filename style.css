@@ -6,15 +6,15 @@ html {
 }
 
 :root {
-  --column-1: #bbd0ff;
-  --column-2: #b8c0ff;
-  --column-3: #c8b6ff;
-  --column-4: #ffd6ff;
+  --column-1: #f0e6ef;
+  --column-2: #efc3e6;
+  --column-3: #f0a6ca;
+  --column-4: #9c89b8;
 }
 
 body {
   margin: 0;
-  background: url("./trees.jpg");
+  background: url("https://images.unsplash.com/photo-1607743386760-88ac62b89b8a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80");
   background-size: cover;
   background-position: 50% 60%;
   background-attachment: fixed;
