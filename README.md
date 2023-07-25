@@ -56,7 +56,7 @@ https://danaalami-cloud.github.io/Drag-n-Drop-Organiser/
 ### Author
 
 - 💼 Danaalami-cloud
-: [portfolio](https://github.com/Danaalami-cloud/week-2-awesome-portfolio-assignment)
+: [portfolio](https://www.deedeeportfolio.com/)
 - Github: [Danaalami-cloud](https://www.github.com/Danaalami-cloud)
 
 ### Built With
